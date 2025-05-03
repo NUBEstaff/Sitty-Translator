@@ -10,12 +10,6 @@ Incluye lectura en voz alta y función de copiar.
 
 ![Interfaz](img/interfaz.png)
 
-## 📥 Descargar
-
-[Descargar Traductor (.exe)](https://drive.google.com/file/d/11nMCr0l42ruRHKq5tY368GDCyg2QdsEW/view)
-Tamaño: 75.7 MB
-
-
 ## 🚀 Cómo usar
 
 1. Escribe o pega el texto a traducir en la entrada superior.
@@ -29,3 +23,8 @@ Tamaño: 75.7 MB
 - Sistema operativo: Windows 7 SP1, 8, 8.1, 10, 11 (solo 64 bits)
 - Python NO necesario, es portable
 - Se recomienda tener instaladas las **Microsoft Visual C++ Redistributable** (2022)
+
+## 📥 Descargar
+
+[Descargar Traductor (.exe)](https://drive.google.com/file/d/11nMCr0l42ruRHKq5tY368GDCyg2QdsEW/view)
+Tamaño: 75.7 MB
