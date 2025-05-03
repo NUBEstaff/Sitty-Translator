@@ -10,10 +10,6 @@ Incluye lectura en voz alta y función de copiar.
 
 ![Interfaz](img/interfaz.png)
 
-### Traducción y lectura
-
-![Traduccion](img/traduccion.png)
-
 ## 📥 Descargar
 
 [Descargar Traductor (.exe)](https://drive.google.com/file/d/11nMCr0l42ruRHKq5tY368GDCyg2QdsEW/view)
